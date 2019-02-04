@@ -1,0 +1,48 @@
+<style type="text/css">
+
+{
+    margin:10 ; padding:10;
+}
+h1{
+	
+}
+a {
+	text-decoration:none ;
+	}
+body {
+        font-family: '±¼¸²' µ¸¿ò; font-size:1em; color:#333;
+}
+
+
+input {
+	width: 1300px;
+	height: 20px; 
+	}
+
+.tbl-ex, .tbl-ex th , .tbl-ex td{
+		 width: 1800px;
+         border:1px solid gray;
+         border-width: 1px 0;
+         border-collapse: collapse;
+         text-align: left;
+         padding:8px;
+}
+
+.tbl-ex th{
+		 text-align:center;
+         background-color: #999;
+         font-size: 1.1em;
+         color: #fff;
+         border-width:2px 0;
+}
+
+
+.tbl-ex td{
+		 text-align:center;
+         border-style:dotted;
+}
+.even{
+         background-color: highlight;
+}
+</style>
+
